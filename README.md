@@ -15,4 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 
-https://github-readme-stats.vercel.app/api?username=IlhomMusayev&show_icons=true&theme=dracula))](https://github.com/IlhomMusayev/github-readme-stats
+
+[![MuhammadSiddiq's GitHub stats](https://github-readme-stats.vercel.app/api?username=IlhomMusayev&show_icons=true&theme=dracula))]
