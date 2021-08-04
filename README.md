@@ -5,6 +5,9 @@
 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IlhomMusayev&langs_count=8))](https://github.com/IlhomMusayev/github-readme-stats) (https://github-readme-stats.vercel.app/api?username=IlhomMusayev&show_icons=true&theme=dark)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IlhomMusayev&langs_count=8))](https://github.com/IlhomMusayev/github-readme-stats) 
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IlhomMusayev&langs_count=8)](https://github.com/IlhomMusayev/github-readme-stats)
+
 
 
