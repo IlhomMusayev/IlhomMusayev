@@ -9,26 +9,6 @@
     <img alt="Follow Telegram channel" src="https://img.shields.io/static/v1?label=Follow&message=Telegram-Channel&style=for-the-badge&color=4A90E2&labelColor=222222" /></a> 
 
 ** ** 
-
-
-
-    
-    
-    
-   
-	
-    
-
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IlhomMusayev&langs_count=8))](https://github.com/IlhomMusayev/github-readme-stats) 
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=IlhomMusayev&show_icons=true&theme=dark)
-
-
-![Snake animation](https://github.com/mirsaid-mirzohidov/mirsaid-mirzohidov/blob/output/github-contribution-grid-snake.svg)
-
-
 <h3>My skills</h3>
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
@@ -40,3 +20,13 @@
 ![MongoDB](https://img.shields.io/badge/-MongoDB-%231572B6?style=flat-square&logo=mongodb)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IlhomMusayev&langs_count=8))](https://github.com/IlhomMusayev/github-readme-stats) 
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=IlhomMusayev&show_icons=true&theme=dark)
+
+
+![Snake animation](https://github.com/mirsaid-mirzohidov/mirsaid-mirzohidov/blob/output/github-contribution-grid-snake.svg)
+
+
