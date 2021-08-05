@@ -24,7 +24,7 @@
     
     
     
-    <h4>My comuter sistem:</h4>![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+    <h4>My comuter sistem:</h4> ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 
     
 
