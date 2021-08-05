@@ -2,7 +2,7 @@
 
 <h3>Full stack web developer in Uzbekistan</h3>
 
-<p><a href="https://github.com/IlhomMusayev">
+<p><a href="https://github.com/IlhomjonMusayev">
     <img alt="Follow mirsaid-mirzohidov" src="https://img.shields.io/static/v1?label=Follow&message=IlhomMusayev&style=for-the-badge&color=4A90E2&labelColor=222222" />
 
 <a href="https://t.me/IlhomMusayev">
