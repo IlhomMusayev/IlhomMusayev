@@ -7,6 +7,10 @@
 
 <a href="https://t.me/ilhomjonmusayev">
     <img alt="Follow Telegram channel" src="https://img.shields.io/static/v1?label=Follow&message=Telegram-Channel&style=for-the-badge&color=4A90E2&labelColor=222222" /></p>
+    
+    <h3>My social networks:</h3> 
+<a href="https://instagram.com/ilhomjonmusayev1"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
+
 
 ** ** 
 <h3>My skills</h3>
