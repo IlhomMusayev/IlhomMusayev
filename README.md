@@ -18,7 +18,7 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=ffffff)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-%231572B6?style=flat-square&logo=mongodb)
-![NodeJs](https://img.shields.io/npm/npm.svg?logo=nodedotjs) 
+![NodeJs](https://img.shields.io/npm/v/npm.svg?logo=nodejs) 
 
 
 
