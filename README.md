@@ -16,7 +16,7 @@
 <a href="https://instagram.com/ilhomjonmusayev1"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
 <a href="https://t.me/ilhomjonmusayev"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/></a>
 <a href="https://www.facebook.com/musayevilhomjon1"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/ilhomjon-musayev-4461081bb/"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/ilhomjon-musayev-4461081bb/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="https://www.youtube.com/c/IlhomjonMusayev/"><img src="https://img.shields.io/badge/Youtube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white"/></a>
 
 ##  My skills
