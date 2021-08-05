@@ -18,7 +18,6 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=IlhomMusayev&show_icons=true&theme=dark)
 
 
-https://github.com/mirsaid-mirzohidov/mirsaid-mirzohidov/blob/output/github-contribution-grid-snake.svg
-
+![Snake animation](https://github.com/mirsaid-mirzohidov/mirsaid-mirzohidov/blob/output/github-contribution-grid-snake.svg)
 
 
