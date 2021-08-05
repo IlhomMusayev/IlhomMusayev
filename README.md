@@ -32,7 +32,7 @@
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IlhomMusayev&langs_count=8))](https://github.com/IlhomMusayev/github-readme-stats) 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IlhomMusayev&langs_count=8)](https://github.com/IlhomMusayev/github-readme-stats) 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=IlhomMusayev&show_icons=true&theme=dark)
 
 
