@@ -14,6 +14,10 @@
     </a>
 </p>
     
+<br>
+<br>
+
+    
 ##  My social networks
 
 <a href="https://instagram.com/ilhomjonmusayev1"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
@@ -21,6 +25,9 @@
 <a href="https://www.facebook.com/musayevilhomjon1"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/ilhomjon-musayev-4461081bb/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="https://www.youtube.com/c/IlhomjonMusayev/"><img src="https://img.shields.io/badge/Youtube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white"/></a>
+
+<br>
+<br>
 
 ##  My skills
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -33,6 +40,9 @@
 ![MongoDB](https://img.shields.io/badge/-MongoDB-%231572B6?style=flat-square&logo=mongodb)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+
+<br>
+<br>
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IlhomMusayev&langs_count=8)](https://github.com/IlhomMusayev/github-readme-stats) 
