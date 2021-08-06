@@ -15,7 +15,6 @@
 </p>
     
 <br>
-<br>
 
     
 ##  My social networks
@@ -26,7 +25,6 @@
 <a href="https://www.linkedin.com/in/ilhomjon-musayev-4461081bb/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="https://www.youtube.com/c/IlhomjonMusayev/"><img src="https://img.shields.io/badge/Youtube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white"/></a>
 
-<br>
 <br>
 
 ##  My skills
@@ -41,7 +39,6 @@
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
-<br>
 <br>
 
 
