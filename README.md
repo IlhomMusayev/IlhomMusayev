@@ -3,7 +3,7 @@
       <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working.gif?raw=true" href="https://github.com/SP-XD" alt="CoDiNg RocKs"  width="550"/> </a> 
 </div>
 
-<h3>Full stack web developer in Uzbekistan</h3>
+<h3>Full stack web developer in Uzbekistan </h3>
 
 <p>
     <a href="https://github.com/IlhomjonMusayev">
