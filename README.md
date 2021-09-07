@@ -1,7 +1,4 @@
 <h1>Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm Musayev Ilhomjon</h1>
-<div style="text-align: center">
-      <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working.gif?raw=true" href="https://github.com/SP-XD" alt="CoDiNg RocKs"  width="550"/> </a> 
-</div>
 
 <h3>Full stack web developer in Uzbekistan </h3>
 
