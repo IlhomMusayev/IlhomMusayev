@@ -1,6 +1,6 @@
 <h1>Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm Musayev Ilhomjon</h1>
 
-<h3>Full stack web developer in Uzbekistan </h3>
+<h3>Full stack web developer in Uzbekistan  </h3>
 
 <p>
     <a href="https://github.com/IlhomjonMusayev">
