@@ -6,7 +6,7 @@
     <a href="https://github.com/IlhomMusayev">
         <img alt="Follow Ilhom Musayev" src="https://img.shields.io/static/v1?label=Follow&message=IlhomMusayev&style=for-the-badge&color=4A90E2&labelColor=222222" />
     </a>
-    <a href="https://t.me/ilhomjonmusayev">
+    <a href="https://t.me/ilhomdevs">
         <img alt="Follow Telegram channel" src="https://img.shields.io/static/v1?label=Follow&message=Telegram-Channel&style=for-the-badge&color=4A90E2&labelColor=222222" />
     </a>
 </p>
@@ -18,7 +18,7 @@
 
 <a href="https://instagram.com/ilhomdev"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
 <a href="https://t.me/ilhomdevs"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/></a>
-<a href="https://www.facebook.com/musayevilhomjon12"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white"/></a>
+<a href="https://www.facebook.com/ilhomdev"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/ilhomjon"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="https://www.youtube.com/channel/ilhomdev"><img src="https://img.shields.io/badge/Youtube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white"/></a>
 
