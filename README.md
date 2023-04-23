@@ -2,14 +2,14 @@
 
 <h3>Full stack web developer in Uzbekistan  </h3>
 
-<p>
+<!-- <p>
     <a href="https://github.com/IlhomMusayev">
         <img alt="Follow Ilhom Musayev" src="https://img.shields.io/static/v1?label=Follow&message=IlhomMusayev&style=for-the-badge&color=4A90E2&labelColor=222222" />
     </a>
     <a href="https://t.me/ilhomdevs">
         <img alt="Follow Telegram channel" src="https://img.shields.io/static/v1?label=Follow&message=Telegram-Channel&style=for-the-badge&color=4A90E2&labelColor=222222" />
     </a>
-</p>
+</p> -->
     
 <br>
     
