@@ -12,16 +12,6 @@
 </p> -->
     
 <br>
-    
-##  My social networks
-
-<a href="https://instagram.com/ilhomdev"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
-<a href="https://t.me/ilhomdevs"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/></a>
-<a href="https://www.facebook.com/ilhomdev"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/ilhomjon"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https://www.youtube.com/@ilhomdev"><img src="https://img.shields.io/badge/Youtube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white"/></a>
-
-<br>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
     <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ilhommusayev&hide=c%23,css,html%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
